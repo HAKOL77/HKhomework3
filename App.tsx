@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChatSection } from './src/components/ChatSection';
+import { ChatSection } from './components/ChatSection';
 import { TimerSection } from './components/TimerSection';
 import { StatsSection } from './components/StatsSection';
 import { MemberSection } from './components/MemberSection';
